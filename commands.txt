@@ -1,0 +1,1 @@
+when use ls it will show the contents of the directory. also will show all hidden files
