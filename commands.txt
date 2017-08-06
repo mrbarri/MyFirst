@@ -1,1 +1,2 @@
-Use command ls it will show all hidden files and the contents of the directory 
+Use command ls to list the contents of a directory.
+it will show all hidden files with the option -a.
