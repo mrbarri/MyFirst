@@ -1,1 +1,2 @@
 Use command ls it will show all hidden files and the contents of the directory 
+fun
