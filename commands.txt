@@ -1,2 +1,3 @@
 Use command ls to list the contents of a directory.
 it will show all hidden files with the option -a.
+fun
